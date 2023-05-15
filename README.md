@@ -12,4 +12,4 @@ and to run the experiment you have to run `main.java` file
 
 @made by
 Abdullah al ahmed
-saud albashir
+and saud albashir
