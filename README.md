@@ -10,6 +10,3 @@ from 100 to 10, 000 and increases by 100 each time (that is, n = 100, 200, . . .
 to run the GUI you have to run `GUI2.java` file
 and to run the experiment you have to run `main.java` file
 
-@made by
-Abdullah al ahmed
-and saud albashir
